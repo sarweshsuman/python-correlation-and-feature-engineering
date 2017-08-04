@@ -11,4 +11,7 @@ Implementation of Pearson's correlation.
 random_forest_classifier.py
 Implementation of random forest classifier with cross validation
 
+To run above codes,
+python random_forest_classifier.py <FULL_PATH_TO_DATASET>
+
 sklearn version 0.18.1
